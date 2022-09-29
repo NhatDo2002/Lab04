@@ -1,0 +1,9 @@
+h1{
+    color:aqua
+    
+}
+p{
+    color: bisque;
+    text-transform: capitalize;
+    text-transform: inherit;
+}
